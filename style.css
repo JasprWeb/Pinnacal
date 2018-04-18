@@ -1,0 +1,38 @@
+.section-search input{
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x{
+  margin: 5px 10px;
+}
+
+.facebook:hover{
+  color: #3b5998;
+}
+
+.twitter:hover{
+  color: #55acee;
+}
+
+.google:hover{
+  color: #d34836;
+}
+
+.snapchat:hover{
+  color: #fffc00;
+}
+
+.instagram:hover{
+  color: #e95950;
+}
+
+footer .text-small-footer{
+  font-size: 15px;
+}
+
+.link-text-a:hover{
+  text-decoration: underline;
+}
